@@ -1,2 +1,12 @@
 # Analise-de-Interacao-de-Clientes-numa-Academia
-Analise e recomendacoes voltado aos perfis de clientes de uma academia
+A rede de academias Model Fitness está desenvolvendo uma estratégia de interação com o cliente baseados em dados analíticos. A Model Fitness digitalizou uma parte dos perfis dos clientes. A tarefa é analisá-los e vir com uma estratégia de retenção de clientes.
+
+Objetivos
+Aprender a predizer a probabilidade de rotatividade (para o mês seguinte) para cada cliente
+Elaborar retratos de usuários típicos: selecione os grupos mais marcantes e descreva suas principais características
+Analisar os fatores que mais impactam a rotatividade
+
+Tire conclusões básicas e desenvolva recomendações sobre como melhorar o serviço de clientes:
+    Identifique grupos alvo
+    Sugira medidas para diminuir a rotatividade
+    Descreva qualquer outro padrão que você vir com respeito às interações com clientes
