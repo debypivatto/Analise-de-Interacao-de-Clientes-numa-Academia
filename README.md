@@ -1,4 +1,5 @@
-##🏋️‍♀️ Análise de Clientes em uma Academia 
+## 🏋️‍♀️ Análise de Clientes em uma Academia 
+
 A rede de academias Model Fitness está desenvolvendo uma estratégia de interação com o cliente baseados em dados analíticos. A Model Fitness digitalizou uma parte dos perfis dos clientes. A tarefa é analisá-los e vir com uma estratégia de retenção de clientes.
 
 Objetivos:
